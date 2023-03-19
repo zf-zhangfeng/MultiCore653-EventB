@@ -1,5 +1,10 @@
 <html>
-  <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+ 
+dddddd
+  
+</html>
+
+ <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <org.eventb.core.machineFile org.eventb.core.configuration="org.eventb.core.fwd;ch.ethz.eventb.qualprob.qpConfig" version="5">
 <org.eventb.core.event name="'" org.eventb.core.convergence="0" org.eventb.core.extended="false" org.eventb.core.label="INITIALISATION">
 <org.eventb.core.action name="'" org.eventb.core.assignment="partition_mode ≔ PARTITIONS × {PM_COLD_START}" org.eventb.core.label="act001"/>
@@ -19,6 +24,3 @@
 <org.eventb.core.action name="/" org.eventb.core.assignment="partition_mode(part) ≔ newm" org.eventb.core.label="act001"/>
 </org.eventb.core.event>
 </org.eventb.core.machineFile>
-
-  
-</html>
